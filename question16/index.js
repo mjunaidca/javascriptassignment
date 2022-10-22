@@ -11,6 +11,8 @@ for (i=0; i<guests.length; i++){
     console.log('Mr.' + guests[i] + ", " + message);
 }
 
+// More Guests
+
 console.log("I have found a bigger dinner table, so I am inviting more guests");
 
 guests.unshift("Awais Aslam");

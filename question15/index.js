@@ -3,7 +3,7 @@ let message = "would you be avalible for dinner this Sunday? Let's meet at 7:00 
 for (i=0; i<guests.length; i++){
     console.log('Mr.' + guests[i] + ", " + message);
 }
-
+// Changing Guest List
 console.log("Mr. " + guests[2] + " will not come to dinner this Sunday due to their flight schedule");
 
 guests[2] = "Hassaan";

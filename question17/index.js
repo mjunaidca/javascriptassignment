@@ -20,7 +20,7 @@ for (i=0; i<guests.length; i++){
     console.log('Mr.' + guests[i] + ", " + message);
 }
 
-// Starting Question 17
+// Starting Question 17 (Shrinking Guest List)
 
 console.log("Due to unexpected circumstance new Dinner Table will not arrive on time, so I can invite only two guests");
 console.log(guests);
